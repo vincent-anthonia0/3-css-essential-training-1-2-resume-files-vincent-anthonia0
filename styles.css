@@ -1,0 +1,26 @@
+body {
+	
+}
+a{
+color: #ffddcc;
+}
+a:hover {
+	text-decorations: none;
+}
+
+header, footer{
+	background: #ff9966
+}
+
+header h1, header h2{
+	color:#ffffff;
+}
+
+.work {
+	background:#ffddcc;
+}
+
+.experience{
+	background:#ffddcc;
+}
+
